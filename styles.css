@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contenedor-post {
+    background-color: white;
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+
+#contenedor-header {
+    width: 100%;
+    background-color: white;
+    display:space-around;
+}
+
+
+
+#img-body {
+    width: 100%;
+}
+
+
+
+
+#contendor-footer {
+    width: 100%;
+    display: inline;
+    background-color: white;
+}
+img {
+    width: 100%;
+}
+
+#corazon-comentario-enviar-Izquierda {
+	margin: 0px;
+}
+
+#fa-regular-fa-bookmark-fa-2xl {
+    margin: 1px;
+}
